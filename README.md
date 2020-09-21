@@ -5,7 +5,7 @@ I am a UI Engineer working with an amaizng team at Deloitte Digital, loves to fi
 - 🔭  I’m currently working on version Controlled POSTMAN tool
 - 🌱  I’m currently learning WebAssembly, Web Components
 - 👯  I’m looking to collaborate on React & Vue libraries
-- 🤔  I’m looking for help with [version-controlled-RESTclient](https://github.com/Rajdeepc/version-REST.git)
+- 🤔  Created @teleport, @razorurl & @evaluator
 - 💬  Ask me about JavaScript
 - 📫  How to reach me: Email: rajrock38@gmail.com
 - ⚡  Fun fact: A big lover of innovating my work desk, ends up getting bankrupt
