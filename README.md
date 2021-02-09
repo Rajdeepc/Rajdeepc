@@ -1,10 +1,25 @@
-## Rajdeep Chandra
+### Hi there 👋
 
-I am a UI Engineer working with an amaizng team at Deloitte Digital, loves to find bugs on other websites(You got me :'), writes about tech at The Startup Publication. You will mostly find open source tools and interesting projects in my GitHub.
+I write a lot of JavaScript/React. You can also find me on twitter 🌹
 
-- 🔭  I’m currently working on iam-Available web app 
-- 🌱  Currently learning WebAssembly, Web Components, State Machines
-- 👯  I’m looking to collaborate on React & Vue component libraries
-- 🤔  Created @teleport, @razorurl, @evaluator @iam-available
-- 💬  Ask me about JavaScript, Web Performance, Design Systems & Component Library
-- 📫  How to reach me: Email: rajrock38@gmail.com
+[![Follow on Twitter](https://img.shields.io/twitter/follow/rajrock38?style=social&logo=twitter)](https://twitter.com/rajrock38)
+
+## GitHub Achievements 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Rajdeepc&rank=SSS)
+
+
+<!--
+**Rajdeepc/Rajdeepc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
