@@ -6,7 +6,7 @@ I write a lot of JavaScript/React. You can also find me on twitter 🌹
 
 ## GitHub Achievements 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Rajdeepc&rank=SSS)
+![trophy](https://github-profile-trophy.vercel.app/?username=Rajdeepc)
 
 
 <!--
