@@ -2,22 +2,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rajrock38?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frajrock38&screen_name=rajrock38)
 
-## I'm a Husband, Developer, and Tech Blogger !!
+- I am working as a Software Engineer @[Adobe](https://adobe.com/).
+- I am active on [LinkedIn](https://www.linkedin.com/in/rajdeepcoder/)
+- I have my blogs at [dev.to](https://dev.to/rajdeepc) and [medium](https://medium.com/@rajrock38)
+- I like to create content - photography and videos and tech.
+- I am active on [Instagram](https://www.instagram.com/single_threaded/), [Twitter](https://twitter.com/rajrock38)
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I have rewritten POSTMAN like app in a week :P
-
-### Connect with me:
-
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
-<br />
 
 ### Languages and Tools:
 
