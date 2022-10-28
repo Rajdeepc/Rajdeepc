@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/rajrock38?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frajrock38&screen_name=rajrock38)
 
 - I am working as a Software Engineer @[Adobe](https://adobe.com/).
-- I am active on [LinkedIn](https://www.linkedin.com/in/rajdeepcoder/)
+- I am active on [LinkedIn](https://www.linkedin.com/in/rajdeepcoder/) where you will find me posting on tech and trivias.
 - I have my blogs at [dev.to](https://dev.to/rajdeepc) and [medium](https://medium.com/@rajrock38)
 - I like to create content - photography and videos and tech.
 - I am active on [Instagram](https://www.instagram.com/single_threaded/), [Twitter](https://twitter.com/rajrock38)
